@@ -1,5 +1,5 @@
 var typed = new Typed(".text", {
-    strings: ["B.Tech CSE Final Year Student 🎯", "Front-End Web Developement", "well in Coding", "well in Problem Solver" ],
+    strings: ["And I'm a B.Tech CSE Final Year Student 🎯", "I'm Interested in Front-End Web Developement", "I'm Interested in Coding", "I'm Interested in Problem Solving..." ],
     typeSpeed: 90,
     backSpeed: 70,
     backDelay: 50,
