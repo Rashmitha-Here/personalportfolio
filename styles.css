@@ -70,7 +70,7 @@ body{
     width:100%;
     justify-content: space-between;
     height: 100vh;
-    background: url(wallpaper3-overlay3.jpg) no-repeat;
+    background: url(wallpaper3-overlay\ \(1\).jpg) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -119,7 +119,7 @@ body{
     animation: slideLeft 1s ease forwards;
     animation-delay: 1s;
 }
-/* .home-sci a{
+.home-sci a{
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -129,7 +129,7 @@ body{
     border: 2px solid #0ef;
     border-radius: 50%;
     font-size: 20px;
-    color: #0ef;
+    color: #000000;
     text-decoration: none;
     transition: .5s ease;
     opacity:0;
@@ -141,7 +141,7 @@ body{
     background: #0ef;
     color: #081b29;
     box-shadow: 0 0 20px #0ef;
-} */
+}
 
 /* more about me */
 .btn-box{
@@ -175,7 +175,7 @@ body{
     width:100%;
     justify-content: space-between;
     height: 100vh;
-    background: url(white-bg7-overlay.jpg) no-repeat;
+    background: url(white-bg3-overlay\ \(2\).jpg) no-repeat;
     background-size: cover;
     background-position: center;
     display: grid;
